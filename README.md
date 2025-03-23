@@ -121,4 +121,4 @@ main() Function: Runs the simulation loop.
 🛡️ Add error handling for edge cases.
 
 <b> Contribution made by :</b>
-Aman Kumar, Diwakar, Manoj
+Aman Kumar, Deewakar Kumar, Manoj
