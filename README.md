@@ -56,7 +56,16 @@ Set the number of simulation steps (50-500) ⏳
 
 Choose the task creation probability (0.1-0.9) 🎲
 
-Check the Output:
+Check the Output
+
+<b>Screenshots:</b>
+
+input:
+
+![WhatsApp Image 2025-03-23 at 21 52 56](https://github.com/user-attachments/assets/3a00ddef-1fc9-45c2-b34f-a0bd67e79ada)
+
+output:
+
 ![WhatsApp Image 2025-03-23 at 21 31 01](https://github.com/user-attachments/assets/4bab40ad-8867-41c4-9285-50039dcc5b58)
 ![WhatsApp Image 2025-03-23 at 21 32 48](https://github.com/user-attachments/assets/43bd099e-d5de-4c3f-83d3-2c8079d0f103)
 ![load_distribution](https://github.com/user-attachments/assets/c8b8b15d-7618-49d0-a698-e7b8ee0dd2bc)
@@ -121,4 +130,5 @@ main() Function: Runs the simulation loop.
 🛡️ Add error handling for edge cases.
 
 <b> Contribution made by :</b>
-Aman Kumar, Deewakar Kumar, Manoj
+
+Aman Kumar, Diwakar, Manoj
